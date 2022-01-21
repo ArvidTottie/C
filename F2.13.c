@@ -1,3 +1,15 @@
+/*
+ * Programmeringsteknik med C och Matlab
+ * Vårterminen 2022
+ * Uppgift 2.13
+
+ * Filnamn:         F2.13.c
+ * Beskrivning:     Program som givet ett heltal 1-4, skriver ut vilken läsk
+                    man valt med hjälp av en switch-sats.
+ * Författare:      Arvid Tottie
+ * CS användarnamn: id21ate
+ * Datum:
+ */
 #include <stdio.h>
 int main(void) {
   int choice;
