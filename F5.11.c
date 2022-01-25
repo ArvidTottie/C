@@ -6,7 +6,7 @@
  * Filnamn:         F5.11.c
  * Beskrivning:     Program som låter användare ange valfri tempratur och sedan
                     konvertera vald tempratur till antigen fahrenheit eller
-                    celcius.
+                    celsius.
  * Författare:      Arvid Tottie
  * CS användarnamn: id21ate
  * Datum:
